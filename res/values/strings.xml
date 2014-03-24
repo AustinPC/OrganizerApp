@@ -4,5 +4,7 @@
     <string name="app_name">Organizer</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="edit_message">Enter class name</string>
+    <string name="button_send">Create</string>
 
 </resources>
